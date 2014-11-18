@@ -1,0 +1,11 @@
+<snippet>
+	<description>#ifndef … #define … #endif</description>
+	<content><![CDATA[#ifndef ${1/([A-Z0-9_]+).*/$1/}_H
+# define ${1:H}_H
+
+$0
+
+#endif]]></content>
+	<tabTrigger>#h</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>
