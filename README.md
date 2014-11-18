@@ -15,4 +15,6 @@ _(Preferences/Browse Packages...)_
 
 * main
 
-**How to use**: Write a snippet trigger and press tab. Press tab again to switch 
+* func
+
+**How to use**: Write a snippet trigger and press **tab**. Press **tab** again to switch field
