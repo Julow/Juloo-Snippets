@@ -1,7 +1,7 @@
 <snippet>
-	<description>#ifndef … #define … #endif</description>
-	<content><![CDATA[#ifndef ${1/([A-Z0-9_]+).*/$1/}_H
-# define ${1:H}_H
+	<description>H Protection</description>
+	<content><![CDATA[#ifndef ${1/([A-Za-z0-9_]+).*/$1/}_H
+# define ${1:$TM_FILENAME}_H
 
 $0
 

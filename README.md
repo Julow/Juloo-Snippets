@@ -9,8 +9,10 @@ _(Preferences/Browse Packages...)_
 
 * \#h
 
-* struct
-
-* s_
+* struct _or_ s_
 
 * t_
+
+* main
+
+**How to use**: Write a snippet trigger and press tab. Press tab again to switch 
