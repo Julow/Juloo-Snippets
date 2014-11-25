@@ -1,3 +1,5 @@
+Please use [Juloo-Sublime-Package](https://github.com/Julow/Juloo-Sublime-Package).
+
 # Juloo Snippets
 
 My snippets for Sublime Text
